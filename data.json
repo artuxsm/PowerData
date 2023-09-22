@@ -4,28 +4,28 @@
     "IP": "10.10.10.1",
 	"today": "21 Sep 2023",
     "timestamp": "14:33:52",
-	"pwr": 725.32
+	"pwr": 755.32
   },
   {
     "Hostname": "Toscano-2",
     "IP": "10.10.10.2",
 	"today": "21 Sep 2023",
     "timestamp": "14:33:55",
-	"pwr": 128.99
+	"pwr": 188.99
   },
   {
     "Hostname": "Popo-3",
     "IP": "10.10.10.3",
 	"today": "21 Sep 2023",
     "timestamp": "15:33:55",
-	"pwr": 300.99
+	"pwr": 390.99
   },
    {
     "Hostname": "Nextengo-4",
     "IP": "10.10.10.4",
 	"today": "21 Sep 2023",
     "timestamp": "15:33:55",
-	"pwr": 310.99
+	"pwr": 210.99
   },
    {
     "Hostname": "Satelite-5",
