@@ -1,0 +1,44 @@
+[
+  {
+    "Hostname": "Vallejo-1",
+    "IP": "10.10.10.1",
+	"today": "21 Sep 2023",
+    "timestamp": "14:33:52",
+	"pwr": 725.32
+  },
+  {
+    "Hostname": "Toscano-2",
+    "IP": "10.10.10.2",
+	"today": "21 Sep 2023",
+    "timestamp": "14:33:55",
+	"pwr": 128.99
+  },
+  {
+    "Hostname": "Popo-3",
+    "IP": "10.10.10.3",
+	"today": "21 Sep 2023",
+    "timestamp": "15:33:55",
+	"pwr": 300.99
+  },
+   {
+    "Hostname": "Nextengo-4",
+    "IP": "10.10.10.4",
+	"today": "21 Sep 2023",
+    "timestamp": "15:33:55",
+	"pwr": 310.99
+  },
+   {
+    "Hostname": "Satelite-5",
+    "IP": "10.10.10.5",
+	"today": "21 Sep 2023",
+    "timestamp": "15:33:55",
+	"pwr": 800.99
+  },
+   {
+    "Hostname": "Plaza-6",
+    "IP": "10.10.10.6",
+	"today": "21 Sep 2023",
+    "timestamp": "15:33:55",
+	"pwr": 400.99
+  }
+]
